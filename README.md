@@ -28,6 +28,7 @@
 
 ### Data Aanalysis
 ---
+
 This is where we want to include some basic lines of code or queries or even some of the DAX expressions during your analysis;
 
 ```SQL
